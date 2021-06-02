@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ArnaudBernaille
+- 👀 I’m interested in data science, software engineering and finance
+- 💞️ I’m looking to collaborate on blockchain projects
+- 📫 How to reach me : arbernaille@gmail.com
